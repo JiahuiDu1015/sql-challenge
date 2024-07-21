@@ -1,7 +1,10 @@
 # Data Modelling
+**Diagram and scripts have been saved in folder of modelling. 
 Inspect the CSV files, and then sketch an ERD of the tables.  To create the sketch, use QuickDBD Link: https://www.quickdatabasediagrams.com/
 
 # Data Engineering
+**Result has been saved in folder of data engineering.
+
 Use the provided information to create a table schema for each of the six CSV files. 
 
 Specified the data types, primary keys, foreign keys, and other constraints.
@@ -13,6 +16,8 @@ Created the tables in the correct order to handle the foreign keys.
 Import each CSV file into its corresponding SQL table.
 
 # Data Analysis
+** all the analysis has been saved as csv files in the folder of data analysis.
+
 List the employee number, last name, first name, sex, and salary of each employee.
 
 List the first name, last name, and hire date for the employees who were hired in 1986.
